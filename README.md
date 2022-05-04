@@ -6,5 +6,6 @@ Izogni se smrti.
 ### Popdpodnaslov
 
 SREČNO!
-Še ena sprememba.
 
+Še ena sprememba.
+Ta stavek pa je bil napisan neposredno na GitHubu
