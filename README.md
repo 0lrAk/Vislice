@@ -10,6 +10,6 @@ SREČNO!
 Še ena sprememba.
 Ta stavek pa je bil napisan neposredno na GitHubu
 
-## Pravi Avtorji
-- Johnny
-- Ne moja malenkost.
+## Avtorji
+
+Avtorji so Janez Novak in moja malenkost.
